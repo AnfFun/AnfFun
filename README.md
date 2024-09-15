@@ -7,4 +7,3 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I enjoy solving complex coding challenges and occasionally dabble in frontend development with Vue.js!
 
-[![roadmap.sh](https://roadmap.sh/card/tall/66d0d984553501e3c3044086?variant=dark)](https://roadmap.sh)
