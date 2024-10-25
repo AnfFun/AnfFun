@@ -4,6 +4,3 @@
 - 🌱 I’m currently learning advanced PHP techniques, optimizing SQL queries, and exploring microservices architecture.
 - 💬 Ask me about payment gateway integrations, secure data handling, or backend development best practices.
 - 📫 How to reach me: prokofmaxwork@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I enjoy solving complex coding challenges and occasionally dabble in frontend development with Vue.js!
-
